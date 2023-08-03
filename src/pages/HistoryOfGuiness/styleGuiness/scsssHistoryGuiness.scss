@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.history_irelandMain {
+    background-color: black;
+    height: 3500px;
+
+    h1 {
+        text-align: center;
+        color: #FFF;
+        font-family: Actor;
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    .block1 {
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        background-image: url("../../../images/HG_image/Rectangle1.png");
+        width: 757px;
+        height: 1360pxpx;
+        border-radius: 110px;
+        margin-left: 20px;
+        flex-shrink: 0;
+
+        p {
+            color: #FFF;
+            font-family: Abril Fatface;
+            font-size: 36px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+
+    }
+
+    .block2 {
+        display: flex;
+        justify-content:right ;
+        align-items: center;
+        background-image: url("../../../images/HG_image/Rectangle2.png");
+        width: 1066px;
+        height: 1000px;
+        margin-left: 400px;
+        border-radius: 110px;
+        flex-shrink: 0;
+        -webkit-text-stroke: 1px black;
+
+        p {
+            color: #FFF;
+            font-family: Abril Fatface;
+            font-size: 36px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+    }
+}

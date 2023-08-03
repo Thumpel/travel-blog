@@ -1,0 +1,35 @@
+const belfastData=[
+    {
+        id:1,
+        image:"../../Another_cities/Belfast/Belfast1.jpg"
+    },
+    {
+        id:2,
+        image:"../../Another_cities/Belfast/Belfast2.jpg"
+    },
+    {
+        id:3,
+        image:"../../Another_cities/Belfast/Belfast3.jpg"
+    },
+    {
+        id:4,
+        image:"../../Another_cities/Belfast/Belfast4.jpg"
+    },
+    {
+        id:5,
+        image:"../../Another_cities/Belfast/Belfast5.jpg"
+    },
+    {
+        id:6,
+        image:"../../Another_cities/Belfast/Belfast6.jpg"
+    },
+    {
+        id:7,
+        image:"../../Another_cities/Belfast/Belfast7.jpg"
+    },
+    {
+        id:8,
+        image:"../../Another_cities/Belfast/Belfast8.jpg"
+    },
+]
+export default belfastData;
